@@ -61,6 +61,25 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ### hosted on Heroku: 
     https://notification-plugin.herokuapp.com
     
+##Model explanation:
+
+Notification Plug APP:
+
+    1. Button
+    
+    2. Notification Panel
+            . Header
+                - Notification (count)
+            . Footer
+                - Mark All As Read
+            . Body
+                 - notification
+                 - Toggle button for Mark As Read/Unread
+                 
+                
+
+
+    
     
 
 
