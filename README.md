@@ -37,32 +37,30 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## notification-plug App
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+###`Created by : Tapaswini Behera `
+###`Last updated : 11 10 2019`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+##Packages used:
+1. ReactJS
 
-### Code Splitting
+2. Redux
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+3. immer
 
-### Analyzing the Bundle Size
+4. Lodash
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+5. HTML
 
-### Making a Progressive Web App
+6. CSS
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+### github code path : 
+    https://github.com/taps098/notification-plug.git
+    
+### hosted on Heroku: 
+    https://notification-plugin.herokuapp.com
+    
+    
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
